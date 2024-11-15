@@ -9,7 +9,7 @@ export default class NewsItems extends Component {
       <>
         <div className="container mt-4">
             <div className="card">
-                {/* <img src={url} alt="Not Found" className='card-mg-top'/> */}
+                <img src={url} alt="Not Found" className='card-mg-top'/>
                 <div className="card-body">
                     <span 
                         className="badge rounded-pil bg-success bg-gradient text-light" 
